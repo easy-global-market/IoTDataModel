@@ -9,7 +9,7 @@ These data models describe entities useful for dealing with IoT Data in The foll
 
 The main entities identified are:
 
--   [Device](Device/doc/spec.md):
--   [DeviceModel](DeviceModel/doc/spec.md):
+-   [Device](Device):
+-   [DeviceModel](DeviceModel):
 -   [Actuator](Actuator/doc/spec.md):
 -   [Service](Service/doc/spec.md):
